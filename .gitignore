@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+# dsi info
+dsi_info.txt
+
+# data
+data/
+# pipeline outputs
+outputs/
